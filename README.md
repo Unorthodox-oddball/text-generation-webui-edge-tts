@@ -14,6 +14,7 @@ git clone https://github.com/BuffMcBigHuge/text-generation-webui-edge-tts.git ed
 ```
 3. Install the requirements
 ```
+pip install fairseq-0.12.3.1-cp311-cp311-win_amd64.whl
 pip install -r edge_tts/requirements.txt
 ```
 4. Add `--extensions edge_tts` to your startup script <br/> <b>or</b> <br/> enable it through the `Session` tab in the webui
