@@ -6,7 +6,7 @@ A simple extension for the [text-generation-webui by oobabooga](https://github.c
 ## How to install
 Assuming you already have the text-generation-webui set up (min version [1.6.1](https://github.com/oobabooga/text-generation-webui/releases/tag/1.6.1)):
 
-1. Activate the conda environment using `conda activate textgen`
+1. Activate the conda environment using `cmd_windows.bat`
 2. Enter the  `text-generation-webui/extensions/` directory and clone this repository
 ```
 cd text-generation-webui/extensions/
