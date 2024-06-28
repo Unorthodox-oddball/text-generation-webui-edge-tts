@@ -10,7 +10,7 @@ Assuming you already have the text-generation-webui set up (min version [1.6.1](
 2. Enter the  `text-generation-webui/extensions/` directory and clone this repository
 ```
 cd text-generation-webui/extensions/
-git clone [https://github.com/BuffMcBigHuge/text-generation-webui-edge-tts.git edge_tts/](https://github.com/Unorthodox-oddball/text-generation-webui-edge-tts.git)
+git clone https://github.com/Unorthodox-oddball/text-generation-webui-edge-tts.git
 ```
 3. Install the requirements
 ```
